@@ -1,0 +1,27 @@
+.About-Background{
+    background-color: rgb(0, 0, 0);
+    height: 500px;
+    padding: 20px;
+    display: flex;
+    filter: drop-shadow(2px 4px 6px black);
+    margin-left: -10px;
+    margin-right: -10px;
+    justify-content: center;
+    margin-bottom: 5em;
+}
+.About-Background img{
+    width: 75%;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.About-Background .img-bg{
+    text-align: center;
+}
+.About-Background h2{
+    color: white;
+    font-size: 30px;
+}
+
+.About-Background p{
+    color: white;
+    font-size: 22px;
+}

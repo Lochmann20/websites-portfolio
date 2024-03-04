@@ -1,0 +1,73 @@
+.Programming-Languages{
+    background-color: #ffffff00;
+    padding: 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 820px;
+    width: 620px;
+    margin: auto;
+    backdrop-filter: blur(1px);
+    box-shadow: 2px 0px 38px -3px #727272;
+    border-radius: 48px;
+}
+
+.Programming-Languages h1{
+    color: white;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.Programming-Languages p{
+    color: white;
+}
+
+.Javascript, .CSS, .HTML, .REACT, .Ps, .Ai, .UIUX, .In, .Blender, .Zbrush{
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    color: white;
+    border-width: thin;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.Javascript{
+    width: 55%;
+    gap: 45%;
+}
+.REACT{
+    width: 30%;
+    gap: 5%;
+}
+.CSS{
+    width: 70%;
+    gap: 65%;
+}
+.HTML{
+    width: 90%;
+    gap: 70%;
+}
+.Blender{
+    width: 45%;
+    gap: 30%;
+}
+.Zbrush{
+    width: 35%;
+    gap: 20%;
+}
+.Ps{
+    width: 35%;
+    gap: 12%;
+}
+.In{
+    width: 35%;
+    gap: 15%;
+}
+.Ai{
+    width: 55%;
+    gap: 45%;
+}
+.UIUX{
+    width: 55%;
+    gap: 50%;
+}
