@@ -25,9 +25,7 @@
     100% {
       top: -170%; } }
   html {
-    height: 100%;
     background: radial-gradient(ellipse at bottom, #000000 0%, #090a0f 100%);
-    overflow: hidden;
   }
   
   #stars {

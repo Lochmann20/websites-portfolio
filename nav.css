@@ -1,0 +1,17 @@
+.nav{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30em;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 25px;
+}
+
+.nav .a{
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.SoMe{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.SoMe h1{
+    font-size: 30px;
+}
+
+.SoMe-links{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.SoMe-links a{
+    text-decoration: none;
+    color: white;
+    background-color: #333333;
+    padding: 15px;
+    height: 15px;
+    rotate: 43deg;
+    border-style: solid;
+    border-width: thin;
+    border-color: aliceblue;
+}
+
+.SoMe-links p{
+    margin-top: 0px;
+    rotate: -45deg;
+}

@@ -10,8 +10,8 @@
     margin-bottom: 5em;
 }
 .About-Background img{
-    width: 75%;
-    filter: drop-shadow(2px 4px 6px black);
+    width: 90%;
+    margin-top: -10em;
 }
 .About-Background .img-bg{
     text-align: center;
@@ -24,4 +24,15 @@
 .About-Background p{
     color: white;
     font-size: 22px;
+}
+
+.About-Background a{
+    text-decoration: none;
+    color: white;
+    padding: 10px  20px;
+    border-style: solid;
+    border-width: thin;
+    border-color: white;
+    border-radius: 10px;
+    font-size: 20px;
 }
